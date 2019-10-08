@@ -1,6 +1,6 @@
 # homebridge-http-tasmotaRGB
 
-##Config:
+## Config:
 ```
 {
   "accessory": "HTTP-RGB",
